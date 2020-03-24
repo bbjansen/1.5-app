@@ -1,0 +1,41 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "io.legalthings.distanceapp"
+    },
+    "cordova-plugin-ble-central": {
+      "PACKAGE_NAME": "io.legalthings.distanceapp"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "io.legalthings.distanceapp"
+    },
+    "cordova-plugin-background-mode": {
+      "PACKAGE_NAME": "io.legalthings.distanceapp"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "io.legalthings.app_1_5"
+    },
+    "cordova-plugin-wkwebview-engine": {
+      "PACKAGE_NAME": "io.legalthings.app_1_5"
+    },
+    "cordova-plugin-local-notification": {
+      "ANDROID_SUPPORT_V4_VERSION": "26.+",
+      "PACKAGE_NAME": "io.legalthings.app_1_5"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "io.legalthings.distanceapp"
+    },
+    "cordova-plugin-badge": {
+      "PACKAGE_NAME": "io.legalthings.app_1_5"
+    }
+  }
+}
