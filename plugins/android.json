@@ -28,6 +28,9 @@
     "cordova-plugin-local-notification": {
       "ANDROID_SUPPORT_V4_VERSION": "26.+",
       "PACKAGE_NAME": "io.legalthings.app_1_5"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "io.legalthings.app_1_5"
     }
   },
   "dependent_plugins": {

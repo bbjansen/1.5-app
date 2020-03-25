@@ -22,6 +22,7 @@
     "cordova-plugin-dialogs": "^2.0.2",
     "cordova-plugin-local-notification": "git+https://github.com/katzer/cordova-plugin-local-notifications.git",
     "cordova-plugin-local-notifications": "^1.0.0",
+    "cordova-plugin-statusbar": "^2.4.3",
     "cordova-plugin-vibration": "^3.1.1",
     "cordova-plugin-wkwebview-engine": "^1.2.1"
   },
@@ -41,7 +42,8 @@
       "cordova-plugin-local-notifications": {},
       "cordova-plugin-local-notification": {
         "ANDROID_SUPPORT_V4_VERSION": "26.+"
-      }
+      },
+      "cordova-plugin-statusbar": {}
     },
     "platforms": [
       "ios",
