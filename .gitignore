@@ -21,3 +21,5 @@ yarn-error.log*
 *.sw?
 *.p12
 /APP-1.5*
+build.json
+onepointfive.keystore
